@@ -7,7 +7,6 @@ import Order from './Pages/Order'
 import List from './Pages/List'
 import Login from './Components/Login'
 import { ToastContainer } from 'react-toastify';
-import { assets } from './assets/assets'
 import Home from './Pages/Home'
 
 
